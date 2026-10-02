@@ -8,9 +8,6 @@ The project follows a practical analytics workflow:
 
 **Python → Data Cleaning & EDA → SQL (DuckDB) → Business Analysis → Power BI Dashboard → Business Insights**
 
-> **Dataset note:** The project report identifies the dataset as synthetic/simulated railway operations data, not an official Indian Railways operational extract.
-
----
 
 ##  Business Objective
 
