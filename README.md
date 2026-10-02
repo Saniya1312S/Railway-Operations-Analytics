@@ -1,6 +1,6 @@
 # Railway Operations Intelligence & Delay Root-Cause Analytics
 
-## 📌 Project Overview
+##  Project Overview
 
 An end-to-end **Data Analytics / Business Analytics portfolio project** analyzing **1.5 million simulated railway journeys** to understand journey delays, operational bottlenecks, seasonal patterns, train-type performance, infrastructure associations, and major recorded delay causes.
 
@@ -12,7 +12,7 @@ The project follows a practical analytics workflow:
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 The project answers key operational questions such as:
 
@@ -26,7 +26,7 @@ The project answers key operational questions such as:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Records:** 1,500,000 journeys
 - **Columns:** 45
@@ -41,7 +41,7 @@ Key attributes include railway zone, train type, departure timing, season, dista
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python**
 - **Pandas**
@@ -55,7 +55,7 @@ Key attributes include railway zone, train type, departure timing, season, dista
 
 ---
 
-## 🔎 Project Workflow
+##  Project Workflow
 
 ### 1. Data Loading & Quality Audit
 Loaded the journey-level dataset and checked shape, data types, missing values, duplicates, date range, and value consistency.
@@ -92,7 +92,7 @@ Converted analytical outputs into an executive-facing dashboard for operational 
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 1. Overall delay rate was **71.89%**, with an average delay of **97.73 minutes**.
 2. **Eastern Railway (ER)** recorded the highest zone-level delay rate at **89.32%**.
@@ -129,7 +129,7 @@ The dashboard provides an executive view of railway delay performance, including
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 Railway-Operations-Analytics/
@@ -149,7 +149,7 @@ Railway-Operations-Analytics/
 
 ---
 
-## 💼 Business Analyst Deliverables
+##  Business Analyst Deliverables
 
 The project demonstrates:
 
@@ -180,17 +180,10 @@ Based on the analysis, the project highlights several areas for operational inve
 
 ---
 
-## 📌 Important Limitation
+##  Important Limitation
 
 This project uses a **synthetic/simulated dataset**. It demonstrates the analytics methodology, business reasoning, SQL analysis, and dashboard development process; it is not an official Indian Railways operational analysis.
 
 The dataset also does not contain cost, revenue, or passenger-count fields, so monetary ROI is not estimated.
 
----
-
-## 👩‍💻 Author
-
-**Saniya Saratkar**
-
-**Data Analyst | Business Analyst**
 
